@@ -1,9 +1,9 @@
 <?php
 /**
- * Author  : Wahyu Arif Purnomo
+ * Author  : WHITE HAT
  * Name    : Facebook Toolkit++
  * Version : 1.5
- * Update  : 15 June 2019
+ * Update  : 23 MAR 2021
  * 
  * If you are a reliable programmer or the best developer, please don't change anything.
  * If you want to be appreciated by others, then don't change anything in this script.
@@ -166,10 +166,10 @@ if($type=="wahyuarifpurnomo"){
 }
 
 /**
- * Author  : Wahyu Arif Purnomo
+ * Author  : WHITE HAT
  * Name    : Facebook Toolkit++
  * Version : 1.5
- * Update  : 15 June 2019
+ * Update  : 23 MAR 2021
  * 
  * If you are a reliable programmer or the best developer, please don't change anything.
  * If you want to be appreciated by others, then don't change anything in this script.
