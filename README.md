@@ -134,10 +134,8 @@ and help, use the command :
 
     php run.php -h
 
-and don't forget to ask at [issue page](https://github.com/warifp/FacebookToolkit/issues)
 
-If you have additional information, you can make it on the [issue page](https://github.com/warifp/FacebookToolkit/issues).
-
+And use this tool on new id !!!
 
 
 ## SCREEN SHOTS [Termux]
