@@ -67,7 +67,7 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 | Unfriend ALL                       | :white_check_mark: | clean all your friends                             |
 | Confirmation ALL                   | :white_check_mark: | confirm all friend requests                        |
 | Confirmation ALL [Male]            | :white_check_mark: | confirm all friend requests based on male sex      |
-| Confirmation ALL [Female]          | :white_check_mark: | onfirm all friend requests based on female sex     |
+| Confirmation ALL [Female]          | :white_check_mark: | confirm all friend requests based on female sex     |
 | View Data                          | :white_check_mark: | see your friends data based on your username or ID |
 | Dump ID Member Group               | :white_check_mark: | retrieve all ID member on group database           |
 | Dump Username Profile Member Group | :white_check_mark: | retrieve all username member on group database     |
