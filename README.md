@@ -89,17 +89,12 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 
 * `apt-get upgrade -y`
 
-* `pkg install openssl-tool -y`
+* `pkg install php -y`
 
-* `pkg install wget -y`
+* `pkg install curl -y`
 
 * `pkg install git -y`
 
-* `pkg install nodejs-lts`
-
-* `pkg install nodejs`
-
-* `pkg install curl`
 
 * `git clone https://github.com/WHITE-HAT786/INSTAGRAM-TOOLKIT.git`
 
