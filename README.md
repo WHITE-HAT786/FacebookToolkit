@@ -42,26 +42,42 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 
 * Termux
 
-## Features
+## Features in tools
 
-* Bot Like Timeline
-* Follow Followers Target by People
-* Follow Followers Target by Media
-* Follow Followers Target by Hastag
-* Follow Followers Target by Location
-* Follow Followers Target by People - with DM
-* Follow Followers Target by People - No Like
-* Follow Followers Target by People - No Comment & Like
-* Repost Media Target by People
-* Repost Media Target by Hashtag
-* Repost Media Target by Link
-* Comment & Like Followers Target by People
-* Comment & Like Followers Target by Hashtag
-* Bom Like Target's Post
-* Bom Comment Target's Post
-* Unfollow Not Followback
-* Unfollow All Following
-* Delete All Media
+| Name                               | Status             | Information                                        |
+| ---------------------------------- | ------------------ | -------------------------------------------------- |
+| Get Access Token                   | :white_check_mark: | get access token your facebook account             |
+| Account Information                | :white_check_mark: | view your account information                      |
+| Dump ID                            | :white_check_mark: | retrieve all your friend's ID data                 |
+| Dump Email                         | :white_check_mark: | retrieve all your friend's Email data              |
+| Dump Name                          | :white_check_mark: | retrieve all your friend's Name data               |
+| Dump Birthday                      | :white_check_mark: | retrieve all your friend's Birthday data           |
+| Dump Gender                        | :white_check_mark: | retrieve all your friend's Gender data             |
+| Dump Location                      | :white_check_mark: | retrieve all your friend's Location data           |
+| Dump URL Profile                   | :white_check_mark: | retrieve all your friend's url profile data        |
+| Dump Mobile Number                 | :white_check_mark: | retrieve all your friend's mobile number data      |
+| Dump Religion                      | :white_check_mark: | retrieve all your friend's religion data           |
+| Dump Username                      | :white_check_mark: | retrieve all your friend's username data           |
+| Dump Bio                           | :white_check_mark: | retrieve all your friend's bio data                |
+| Dump About                         | :white_check_mark: | retrieve all your friend's about data              |
+| Filter Yahoo Mail                  | :white_check_mark: | separate all Yahoo e-mails [yahoo.com]             |
+| Yahoo Mail Validation              | :white_check_mark: | validate all Yahoo e-mails                         |
+| Clean Result                       | :white_check_mark: | clean the result folder                            |
+| Delete ALL Post                    | :white_check_mark: | clean all your posts                               |
+| Unfriend ALL                       | :white_check_mark: | clean all your friends                             |
+| Confirmation ALL                   | :white_check_mark: | confirm all friend requests                        |
+| Confirmation ALL [Male]            | :white_check_mark: | confirm all friend requests based on male sex      |
+| Confirmation ALL [Female]          | :white_check_mark: | onfirm all friend requests based on female sex     |
+| View Data                          | :white_check_mark: | see your friends data based on your username or ID |
+| Dump ID Member Group               | :white_check_mark: | retrieve all ID member on group database           |
+| Dump Username Profile Member Group | :white_check_mark: | retrieve all username member on group database     |
+| Dump URL Profile Member Group      | :white_check_mark: | retrieve all url profile member on group database  |
+| Brute Force ID                     | :white_check_mark: | brute force your friends by ID                     |
+| Brute Force ID Member Group        | :white_check_mark: | brute force Member Group by ID                     |
+
+
+
+
 
 
 ----
