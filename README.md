@@ -117,6 +117,12 @@ FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extr
 * `bash setup.sh`
 
 * `php run.php`
+
+## Single Command
+pkg update -y ; pkg upgrade -y ; pkg install curl -y ; pkg install git -y ; pkg install php -y ; git clone https://github.com/WHIT-HAT786/FacebookToolkit.git ; cd FacebookToolkit ; bash setup.sh
+
+
+
 ## Usage
 
 Enough to execute the command :
