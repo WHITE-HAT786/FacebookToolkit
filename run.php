@@ -2,7 +2,7 @@
 /**
  * Author  : WHITE HAT
  * Name    : Facebook Toolkit++
- * Version : 1.5
+ * Version : 1.7
  * Update  : 23 MAR 2021
  * 
  * If you are a reliable programmer or the best developer, please don't change anything.
@@ -168,7 +168,7 @@ if($type=="wahyuarifpurnomo"){
 /**
  * Author  : WHITE HAT
  * Name    : Facebook Toolkit++
- * Version : 1.5
+ * Version : 1.7
  * Update  : 23 MAR 2021
  * 
  * If you are a reliable programmer or the best developer, please don't change anything.
