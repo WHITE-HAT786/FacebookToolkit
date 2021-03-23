@@ -32,7 +32,7 @@
 
 ## ABOUT TOOL :
 
-FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extra Tools.
+FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extra Tools. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON
 
