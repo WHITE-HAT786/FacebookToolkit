@@ -12,11 +12,9 @@ Graph API Facebook.</br>
 <a href="https://github.com/warifp"><img alt="Language" src="https://img.shields.io/github/languages/count/warifp/FacebookToolkit.svg"/></a>
 <a href="https://github.com/warifp"><img alt="TopLanguage" src="https://img.shields.io/github/languages/top/warifp/FacebookToolkit.svg"/></a>
 </br>
-<a href="https://github.com/warifp"><img alt="Search" src="https://img.shields.io/github/search/warifp/FacebookToolkit/facebook.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/repo-size/warifp/FacebookToolkit.svg"/></a>
+<a href="https://github.com/warifp"><img alt="Search" src="https://img.shields.io/github/searshields.io/github/repo-size/warifp/FacebookToolkit.svg"/></a>
 <a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/forks/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/stars/warifp/FacebookToolkit.svg"/></a>
-</p>
+<a href="https://github.com/warifp"><img alt="Repository Si
 
 <p align="center">
 Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
