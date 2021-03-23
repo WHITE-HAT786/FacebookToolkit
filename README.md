@@ -106,13 +106,17 @@ FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extr
 * `pkg install git -y`
 
 
-* `git clone https://github.com/WHITE-HAT786/INSTAGRAM-TOOLKIT.git`
+* `git clone https://github.com/WHITE-HAT786/FacebookToolkit.git`
 
-* `cd INSTAGRAM-TOOLKIT`
+* `cd FacebookToolkit`
 
 * `ls`
 
-* `node index.js`
+* `chmod +x *`
+
+* `bash setup.sh`
+
+* `php run.php`
 ## Usage
 
 Enough to execute the command :
