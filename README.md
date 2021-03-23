@@ -108,6 +108,37 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 * `ls`
 
 * `node index.js`
+## Usage
+
+Enough to execute the command :
+
+    php run.php
+
+Cek list menu tools, use the command : 
+
+    php run.php -m
+
+Cek author, use the command : 
+
+    php run.php -a
+
+Cek version, use the command : 
+
+    php run.php -v
+
+Cek update, use the command : 
+
+    php run.php -u
+
+and help, use the command : 
+
+    php run.php -h
+
+and don't forget to ask at [issue page](https://github.com/warifp/FacebookToolkit/issues)
+
+If you have additional information, you can make it on the [issue page](https://github.com/warifp/FacebookToolkit/issues).
+
+
 
 ## SCREEN SHOTS [Termux]
 
