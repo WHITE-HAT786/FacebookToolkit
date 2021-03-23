@@ -161,6 +161,7 @@ If you have additional information, you can make it on the [issue page](https://
  
 * "Use tools at your own risk!!!"
 * "Use this Tool for personal use, not for sale!!!"
-* "Make sure your acc priva
+
+
 
 
