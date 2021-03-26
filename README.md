@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dQXXPLZ/images-2021-03-07-T131819-473.jpg" alt="images-2021-03-07-T131819-473" border="0"></a>
+
 
 
 </p>
@@ -156,7 +156,6 @@ And use this tool on new id !!!
 
 ## SCREEN SHOTS [Termux]
 
-<a href="https://ibb.co/7JFmbdy"><img src="https://i.ibb.co/TB53rxh/20210309-083525.png" alt="20210309-083525" border="0"></a>
 
 <p align="center">
 
