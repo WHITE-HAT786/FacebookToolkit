@@ -24,12 +24,6 @@
 <a href="https://youtu.be/xvwM6QzLFEw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-WHITE HAT-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
-
-
-
-
-
-
 ## ABOUT TOOL :
 
 FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extra Tools. This tool works on both rooted Android device and Non-rooted Android device.
@@ -153,6 +147,22 @@ and help, use the command :
 
 And use this tool on new id !!!
 
+
+## FOR GENERATING MANUALL ACCESS TOKEN :
+### token is not genrating follow this steps 
+
+1.Use this App for genrate your token.
+link :- https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook 
+
+2. Then enter your emaild ID and password.
+
+3. Then you get your access token and copy it.
+
+4. Then open termux and go to FacebookToolkit directory.
+
+5. Then go to config fold and open token.txt file.
+
+6. Then paste your token and again run this tool. your tool will be run properly.
 
 ## SCREEN SHOTS [Termux]
 
