@@ -114,7 +114,7 @@ FacebookToolkit is a Tool to Get Facebook Data, Automatic Facebook bots and Extr
 
 * `chmod +x *`
 
-* `bash setup.sh`
+
 
 * `php run.php`
 
