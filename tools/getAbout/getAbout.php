@@ -3,7 +3,7 @@
  * Author  : WHITE HAT
  * Name    : Facebook Toolkit++
  * Version : 1.7
- * Update  : 23 MAR 2021
+ * Update  : 25 Augest 2021
  * 
  * If you are a reliable programmer or the best developer, please don't change anything.
  * If you want to be appreciated by others, then don't change anything in this script.
